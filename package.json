@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-esnet",
+  "version": "0.1.0",
+  "description": "Common ESnet style",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esnet/eslint-config-esnet.git"
+  },
+  "license": "BSD-3-Clause-LBNL",
+  "bugs": {
+    "url": "https://github.com/esnet/eslint-config-esnet/issues"
+  },
+  "homepage": "https://github.com/esnet/eslint-config-esnet"
+}
