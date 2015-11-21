@@ -5,7 +5,7 @@ Standard ESlint for ESnet
 npm install eslint-config-esnet --save-dev
 ```
 
-Then, extend rackt in your .eslintrc:
+Then, extend esnet in your .eslintrc:
 
 
 ```json
